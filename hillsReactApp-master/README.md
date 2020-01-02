@@ -42,8 +42,10 @@ IN TERMINAL 2, the user will input npm start, now to applcation will listen out 
 
 ## Shop & Add Items CRUD
 
+![Screenshot](shopitems.png)
 ![Screenshot](additem1.png)
 ![Screenshot](additem2.png)
+
 
 
 ![Screenshot](storybook.png)
