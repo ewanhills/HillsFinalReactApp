@@ -27,36 +27,32 @@ IN TERMINAL 2, the user will input npm start, now to applcation will listen out 
 
 
 
-### What the application can do!!!
+### Some screenshots of the application
+
+## Starting Backend
+
+![Screenshot](Mongod.png)
+![Screenshot](npmStart.png)
+
 
 ## Routing
 
 ![Screenshot](routing1.png)
 ![Screenshot](routing2.png)
 
-This is a react applcation with storybook, this website can do the following.
+## Shop & Add Items CRUD
 
-*Has extensicve hyperlinking the user can add their own social medias to the internal code, when an icon is clicked such as instagram it will bring the viewer directly to their account via a new tab.
+![Screenshot](additem1.png)
+![Screenshot](additem2.png)
 
-*Intuiative interface eg home with logo linked hyperlinks
 
-![Screenshot](home1.png)
-![Screenshot](home2.png)
-
-*Has support for storybook
-
-*Area for item addition for the store front
-![Screenshot](item1.png)
-
-*full CRUD support so the user can leave comments for the business owner.
-*The user can leave his/her email, name and number this data is stored in an array, it can later be edited or removed from the list if needed.
-
-![Screenshot](crud.png)
-
-*Deployed via Netify.
-
-*Storybook support
 ![Screenshot](storybook.png)
+
+## Json server error detection example
+
+![Screenshot](server.png)
+
+
 
 
 
@@ -94,6 +90,7 @@ if on Ubuntu/Linux type "npm run"
 * Help from labs
 * Help from the following playlists "https://www.youtube.com/watch?v=Ej3VPf-BrYM"
 * CRUD help from "https://www.youtube.com/watch?v=HZkN0LfC5dM&list=PLjW0UGS7gVqd9_BfJBkGAEUguPBeJ-LcE&index=2&t=0s"
+* CRUD help from https://www.youtube.com/watch?v=h1ivekTEC2M&list=PLuNEz8XtB51KfnHc99GwscPy1UbLJyXHW
 
 
 ## Versioning
