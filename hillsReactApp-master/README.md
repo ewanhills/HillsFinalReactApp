@@ -2,36 +2,30 @@
 Ewan Hills React application for a ceramics producer.
 
 ## Overview
-Hyperlinking.
+This is a react application that allows a shopowner to add items to his her shop. These items can then be later be viewed via a shop item page. The owner can add, edit, delete as well as save more items to the shop. If the user provides a url an image can be added to the items description.
 
-full react design.
+Mongodb, node js, ajax and babelrc for backwards compatability are used. The shop items are fetched from the mongodatabase. If no items are present in the database then a message saying so will be displayed.
 
-routing and linking between all pages.
-
-side table bar for navigation.
-
-top header for navigation.
-
-showcase for ceramic items with links to business owners account, instagram homepage as a placeholder for now.#
-
-Logos such as youtube which will bring you to owners selected social media account, again youtube homepage as placeholder
-
-logo support for twitter, instagram, youtube, facebook.
-
-Full CRUD feedback support for customers/owner
-
-Deployed via Netify.
-
-Contact page with placeholder image as a test, can be changed as selected later on.
-
-
-
-
+The application has hyperlinking,
+Error detection such as error codes for network errors,
+Input validation at the API level,
+Crud Support,
+Routing,
+Storybook Integration,
+Paramatarized Urls,
+Header Footer Navigation,
+Backend Integration via Json Server,
 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+The user will then go into the  backend folder and open 2 terminals.
+IN TERMINAL 1, the user will input mongod to start to mongo service.
+IN TERMINAL 2, the user will input npm start, now to applcation will listen out to port 8080 for requests.
+
+
 
 ### What the application can do!!!
 
